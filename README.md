@@ -1,2 +1,2 @@
-Hi, this is Enes
-Welcome to my GitHub Portfolio
+Hi, this is Enes.
+Welcome to my GitHub Portfolio.
